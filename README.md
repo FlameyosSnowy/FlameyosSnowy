@@ -3,8 +3,6 @@
 
 Old and Lost account: @coderFlameyosFlow
 
-
-
 ### About me
 - 🇩🇪 I am currently learning german!
 - 🖥️ I am a programmer who is highly interested in performance and embedded systems.
@@ -12,7 +10,7 @@ Old and Lost account: @coderFlameyosFlow
 - 🇪🇬 I am a native egyptian!
 
 ### About more of me
-- ⛏️ I am a great builder and pvper!
+- ⛏️ I am a great builder in minecraft!
 - 🇵🇸 I support palestine :D
 - dho.
 
@@ -24,7 +22,7 @@ The father of following languages:
 
 The step-father of these IDEs: 
 
-[![IDEs I use(d)](https://skillicons.dev/icons?i=idea,vscode,eclipse,replit)](https://skillicons.dev)
+[![IDEs I use(d)](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
 
 The grandpa of these open source tools, build tools and database tools: 
 
@@ -36,12 +34,11 @@ My PERSONALLY favored libraries that I made:
 
 ## Plugins
 
-![Looking](https://media.giphy.com/media/l396Ea5qM20nGwKeA/giphy.gif)
+- EnhancedChatModerations: High performance chat-organization/beautifier plugin, consisting of chat formatting, mentions, broadcasts, and more.
 
 ## Libraries
-- **WIP** MCMAPI: A high-performance library to significantly reduce the development time of creating feature-rich minigames; such as skywars, bedwars, and MCMAPI is very portable allowing you to create MULTIPLE minigames in just one implementation of MCMAPI.
-- Havic: an OOP-based (not annotation based) command library for spigot made to be balanced between runtime performance and development time, nearly the performance of bukkit's command API but still a lot less boilerplate.
-- Woody: a High-performance and feature-rich menus library originally based on triumph-gui as a more modern alternative (not drop-in replacement)
+- Velocis: High performance performance library, made for concurrency, and caching algorithms.
+- Universal: High performance and lightweight ORM/ODM.
 
 ## Contacting Methods
 My @ at Discord is "fqmy" and my backup is "wildered."
