@@ -1,10 +1,6 @@
-## Hallo! Ich bin Eyad odor FlameyosFlow 
-(Yes, I'm learning German, Deutsch ist eine gute Sprache :+1:)
-
-Old and Lost account: @coderFlameyosFlow
+## Hello, FlameyosFlow here
 
 ### About me
-- 🇩🇪 I am currently learning german!
 - 🖥️ I am a programmer who is highly interested in performance and embedded systems.
 - 🖱️ I like to program libraries and plugins to help people and for fun! *molah accepted*
 - 🇪🇬 I am a native egyptian!
