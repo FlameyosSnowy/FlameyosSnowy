@@ -32,7 +32,7 @@ Other proprietary plugins.
 
 ## Libraries
 - Velocis: High performance performance library, made for concurrency, and caching algorithms.
-- Universal: High performance and lightweight ORM/ODM.
+- Universal: High performance Relational Distributed Objectt Runtime
 
 ## Contacting Methods
 My @ at Discord is "wildered.da.programmer"
