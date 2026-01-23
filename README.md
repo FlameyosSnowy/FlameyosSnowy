@@ -12,29 +12,27 @@
 
 The father of following languages: 
 
-![Languages I Use](https://skillicons.dev/icons?i=java,kotlin,py,dart,gradle,rust)
+![Languages I Use](https://skillicons.dev/icons?i=java,dart,gradle,rust)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderFlameyosFlow&show_icons=true&theme=radical&langs_count=10&layout=donut&bg_color=00000000)
 
-The step-father of these IDEs: 
-
-[![IDEs I use(d)](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
-
-The grandpa of these open source tools, build tools and database tools: 
+I use these open source tools, build tools and database tools: 
 
 [![tools](https://skillicons.dev/icons?i=sqlite,mongodb,maven,gradle,github,mysql,git)](https://skillicons.dev)
 
-My PERSONALLY favored libraries that I made:
+My personal favored libraries that I made:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlameyosSnowy&repo=WoodyMenus&theme=radical&bg_color=00000000)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlameyosSnowy&repo=Universal&theme=radical&bg_color=00000000)
 
 ## Plugins
 
 - EnhancedChatModerations: High performance chat-organization/beautifier plugin, consisting of chat formatting, mentions, broadcasts, and more.
+- StorySMPPlugin: A freelance project for a server.
+Other proprietary plugins.
 
 ## Libraries
 - Velocis: High performance performance library, made for concurrency, and caching algorithms.
 - Universal: High performance and lightweight ORM/ODM.
 
 ## Contacting Methods
-My @ at Discord is "fqmy" and my backup is "wildered."
+My @ at Discord is "wildered.da.programmer"
