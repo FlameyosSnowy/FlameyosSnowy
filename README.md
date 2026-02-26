@@ -25,10 +25,11 @@ My personal favored libraries that I made:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlameyosSnowy&repo=Universal&theme=radical&bg_color=00000000)
 
 ## Plugins
-
+Including but not limited to:
 - EnhancedChatModerations: High performance chat-organization/beautifier plugin, consisting of chat formatting, mentions, broadcasts, and more.
 - StorySMPPlugin: A freelance project for a server containing custom weapons, great animations, and a beautiful lore.
-Other proprietary plugins.
+
+Other proprietary plugins have not been listed, current plugin count: **10**
 
 ## Libraries
 - Velocis: High performance performance library, made for concurrency, and caching algorithms.
