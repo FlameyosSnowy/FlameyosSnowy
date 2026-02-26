@@ -27,7 +27,7 @@ My personal favored libraries that I made:
 ## Plugins
 
 - EnhancedChatModerations: High performance chat-organization/beautifier plugin, consisting of chat formatting, mentions, broadcasts, and more.
-- StorySMPPlugin: A freelance project for a server.
+- StorySMPPlugin: A freelance project for a server containing custom weapons, great animations, and a beautiful lore.
 Other proprietary plugins.
 
 ## Libraries
@@ -35,4 +35,4 @@ Other proprietary plugins.
 - Universal: High performance Relational Distributed Object Runtime
 
 ## Other accomplishments:
-- Actively working on a **compiled programming language** called ZetaLang.
+- Actively working on a **compiled programming language** called [ZetaLang](https://github.com/Voxon-Development/zeta-lang).
