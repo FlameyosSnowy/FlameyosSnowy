@@ -33,3 +33,6 @@ Other proprietary plugins.
 ## Libraries
 - Velocis: High performance performance library, made for concurrency, and caching algorithms.
 - Universal: High performance Relational Distributed Object Runtime
+
+## Other accomplishments:
+- Actively working on a **compiled programming language** called ZetaLang.
